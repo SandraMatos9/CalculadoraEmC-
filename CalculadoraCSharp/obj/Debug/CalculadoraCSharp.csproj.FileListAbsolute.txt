@@ -1,0 +1,7 @@
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe.config
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.exe
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\CalculadoraCSharp\CalculadoraCSharp\bin\Debug\CalculadoraCSharp.pdb
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.AssemblyReference.cache
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.exe
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\CalculadoraCSharp\CalculadoraCSharp\obj\Debug\CalculadoraCSharp.pdb
